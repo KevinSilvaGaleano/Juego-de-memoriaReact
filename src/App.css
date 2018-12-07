@@ -1,0 +1,8 @@
+body {
+  background-image: url("https://windowscustomization.files.wordpress.com/2018/09/plexus1.gif?w=640");
+  background-size: cover;
+}
+
+div:focus {
+  outline: none !important;
+}
